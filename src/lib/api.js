@@ -1,5 +1,5 @@
-export const accessToken = "ALrmj1srryV5xQ9o7BOmI2T5jZoc07hbFox_zlHOobo";
-export const spaceId = "gt3de4od2pp2";
+export const accessToken = "";
+export const spaceId = "";
 export const query = `
   query {
     productCollection {
